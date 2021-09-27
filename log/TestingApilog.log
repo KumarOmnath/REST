@@ -1,0 +1,608 @@
+2021-06-08 00:22:42,389 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:22:42,389 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:22:47,285 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======1752
+2021-06-08 00:22:47,285 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======1752
+2021-06-08 00:22:47,354 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:22:47,354 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:22:47,978 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 00:22:47,978 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 00:22:48,023 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 00:22:48,023 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 00:22:48,254 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@188cbcde
+2021-06-08 00:22:48,254 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@188cbcde
+2021-06-08 00:22:48,284 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 00:22:48,284 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 00:22:48,285 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:22:48,285 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:22:48,339 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 00:22:48,339 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 00:22:48,360 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 00:22:48,360 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 00:22:48,427 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 00:22:48,427 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 00:22:48,444 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 00:22:48,444 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 00:22:48,474 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 00:22:48,474 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 00:22:48,494 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 00:22:48,494 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 00:22:48,510 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 00:22:48,510 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 00:22:48,528 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 00:22:48,528 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 00:22:48,557 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 00:22:48,557 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 00:22:48,573 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 00:22:48,573 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 00:22:48,622 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 00:22:48,622 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 00:22:48,642 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 00:22:48,642 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 00:26:41,063 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:26:41,063 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:26:45,710 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======1641
+2021-06-08 00:26:45,710 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======1641
+2021-06-08 00:26:45,776 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:26:45,776 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:26:46,220 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 00:26:46,220 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 00:26:46,286 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 00:26:46,286 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 00:26:46,523 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@113e13f9
+2021-06-08 00:26:46,523 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@113e13f9
+2021-06-08 00:26:46,556 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 00:26:46,556 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 00:26:46,556 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:26:46,556 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:26:46,611 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 00:26:46,611 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 00:26:46,631 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 00:26:46,631 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 00:26:46,698 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 00:26:46,698 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 00:26:46,715 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 00:26:46,715 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 00:26:46,739 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 00:26:46,739 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 00:26:46,759 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 00:26:46,759 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 00:26:46,774 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 00:26:46,774 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 00:26:46,789 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 00:26:46,789 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 00:26:46,823 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 00:26:46,823 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 00:26:46,847 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 00:26:46,847 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 00:26:46,866 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 00:26:46,866 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 00:26:46,887 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 00:26:46,887 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 00:31:11,820 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:31:11,820 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:31:16,570 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======1687
+2021-06-08 00:31:16,570 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======1687
+2021-06-08 00:31:16,643 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:31:16,643 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:31:16,984 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 00:31:16,984 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 00:31:17,024 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 00:31:17,024 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 00:31:17,446 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@113e13f9
+2021-06-08 00:31:17,446 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@113e13f9
+2021-06-08 00:31:17,484 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 00:31:17,484 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 00:31:17,484 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:31:17,484 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:31:17,612 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 00:31:17,612 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 00:31:17,631 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 00:31:17,631 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 00:31:17,692 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 00:31:17,692 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 00:31:17,724 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 00:31:17,724 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 00:31:17,745 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 00:31:17,745 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 00:31:17,765 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 00:31:17,765 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 00:31:17,782 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 00:31:17,782 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 00:31:17,825 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 00:31:17,825 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 00:31:17,859 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 00:31:17,859 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 00:31:17,879 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 00:31:17,879 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 00:31:17,899 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 00:31:17,899 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 00:31:17,915 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 00:31:17,915 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 00:32:14,213 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:32:14,213 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:32:19,082 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======1625
+2021-06-08 00:32:19,082 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======1625
+2021-06-08 00:32:19,160 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:32:19,160 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:32:19,583 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 00:32:19,583 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 00:32:19,666 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 00:32:19,666 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 00:32:19,921 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@113e13f9
+2021-06-08 00:32:19,921 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@113e13f9
+2021-06-08 00:32:19,951 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 00:32:19,951 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 00:32:19,951 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:32:19,951 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:32:20,006 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 00:32:20,006 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 00:32:20,025 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 00:32:20,025 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 00:32:20,092 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 00:32:20,092 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 00:32:20,110 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 00:32:20,110 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 00:32:20,131 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 00:32:20,131 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 00:32:20,153 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 00:32:20,153 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 00:32:20,170 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 00:32:20,170 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 00:32:20,187 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 00:32:20,187 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 00:32:20,218 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 00:32:20,218 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 00:32:20,234 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 00:32:20,234 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 00:32:20,253 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 00:32:20,253 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 00:32:20,282 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 00:32:20,282 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 00:41:47,680 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:41:47,680 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:41:52,523 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======1685
+2021-06-08 00:41:52,523 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======1685
+2021-06-08 00:41:52,586 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 00:41:52,586 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 00:41:52,896 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 00:41:52,896 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 00:41:52,931 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 00:41:52,931 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 00:41:53,283 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@6ed16657
+2021-06-08 00:41:53,283 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@6ed16657
+2021-06-08 00:41:53,318 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 00:41:53,318 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 00:41:53,319 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:41:53,319 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 00:41:53,386 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 00:41:53,386 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 00:41:53,411 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 00:41:53,411 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 00:41:53,469 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 00:41:53,469 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 00:41:53,489 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 00:41:53,489 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 00:41:53,517 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 00:41:53,517 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 00:41:53,538 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 00:41:53,538 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 00:41:53,556 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 00:41:53,556 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 00:41:53,571 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 00:41:53,571 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 00:41:53,588 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 00:41:53,588 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 00:41:53,602 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 00:41:53,602 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 00:41:53,620 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 00:41:53,620 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 00:41:53,651 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 00:41:53,651 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 11:20:16,501 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 11:20:16,501 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 11:20:21,742 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======1783
+2021-06-08 11:20:21,742 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======1783
+2021-06-08 11:20:57,399 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 11:20:57,399 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 11:21:00,511 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 11:21:00,511 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 11:21:00,573 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 11:21:00,573 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 11:21:00,829 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@25c5e994
+2021-06-08 11:21:00,829 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@25c5e994
+2021-06-08 11:21:01,683 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 11:21:01,683 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 11:21:01,684 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 11:21:01,684 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 11:21:01,751 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 11:21:01,751 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 11:21:01,774 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 11:21:01,774 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 11:21:01,827 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 11:21:01,827 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 11:21:01,854 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 11:21:01,854 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 11:21:01,874 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 11:21:01,874 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 11:21:01,893 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 11:21:01,893 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 11:21:01,911 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 11:21:01,911 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 11:21:01,926 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 11:21:01,926 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 11:21:01,944 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 11:21:01,944 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 11:21:01,963 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 11:21:01,963 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 11:21:01,985 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 11:21:01,985 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 11:21:02,001 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 11:21:02,001 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 11:21:02,010 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 11:21:02,010 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 11:21:03,359 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======538
+2021-06-08 11:21:03,359 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======538
+2021-06-08 12:55:53,755 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 12:55:53,755 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 12:55:58,635 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 12:55:58,635 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 12:55:58,715 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 12:55:58,715 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 12:55:59,250 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 12:55:59,250 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 12:56:00,359 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 12:56:00,359 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 12:56:00,360 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 12:56:00,360 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 12:56:00,432 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 12:56:00,432 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 12:56:00,458 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 12:56:00,458 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 12:56:00,536 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 12:56:00,536 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 12:56:00,555 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 12:56:00,555 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 12:56:00,576 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 12:56:00,576 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 12:56:00,597 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 12:56:00,597 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 12:56:00,618 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 12:56:00,618 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 12:56:00,637 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 12:56:00,637 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 12:56:00,657 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 12:56:00,657 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 12:56:00,686 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 12:56:00,686 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 12:56:00,710 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 12:56:00,710 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 12:56:00,727 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 12:56:00,727 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 12:56:00,741 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 12:56:00,741 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 12:56:02,704 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======1036
+2021-06-08 12:56:02,704 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======1036
+2021-06-08 12:56:54,170 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 12:56:54,170 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 12:56:57,583 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 12:56:57,583 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 12:56:57,682 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 12:56:57,682 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 12:57:00,211 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 12:57:00,211 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 12:57:01,144 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 12:57:01,144 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 12:57:01,144 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 12:57:01,144 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 12:57:01,218 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 12:57:01,218 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 12:57:01,242 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 12:57:01,242 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 12:57:01,313 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 12:57:01,313 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 12:57:01,335 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 12:57:01,335 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 12:57:01,361 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 12:57:01,361 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 12:57:01,383 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 12:57:01,383 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 12:57:01,406 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 12:57:01,406 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 12:57:01,426 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 12:57:01,426 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 12:57:01,459 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 12:57:01,459 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 12:57:01,478 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 12:57:01,478 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 12:57:01,497 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 12:57:01,497 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 12:57:01,524 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 12:57:01,524 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 12:57:01,536 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 12:57:01,536 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 12:57:03,201 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======925
+2021-06-08 12:57:03,201 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======925
+2021-06-08 12:58:34,571 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 12:58:34,571 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 12:58:38,084 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 12:58:38,084 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 12:58:38,155 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 12:58:38,155 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 12:58:38,631 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 12:58:38,631 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 12:58:39,591 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 12:58:39,591 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 12:58:39,592 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 12:58:39,592 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 12:58:39,665 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 12:58:39,665 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 12:58:39,688 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 12:58:39,688 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 12:58:39,757 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 12:58:39,757 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 12:58:39,775 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 12:58:39,775 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 12:58:39,797 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 12:58:39,797 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 12:58:39,834 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 12:58:39,834 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 12:58:39,855 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 12:58:39,855 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 12:58:39,873 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 12:58:39,873 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 12:58:39,896 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 12:58:39,896 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 12:58:39,916 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 12:58:39,916 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 12:58:39,935 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 12:58:39,935 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 12:58:40,003 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 12:58:40,003 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 12:58:40,010 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 12:58:40,010 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 12:58:41,735 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======972
+2021-06-08 12:58:41,735 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======972
+2021-06-08 12:59:51,326 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 12:59:51,326 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 12:59:54,772 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 12:59:54,772 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 12:59:54,849 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 12:59:54,849 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 12:59:56,991 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 12:59:56,991 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 12:59:57,922 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 12:59:57,922 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 12:59:57,923 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 12:59:57,923 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 12:59:57,998 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 12:59:57,998 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 12:59:58,020 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 12:59:58,020 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 12:59:58,089 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 12:59:58,089 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 12:59:58,107 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 12:59:58,107 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 12:59:58,133 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 12:59:58,133 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 12:59:58,153 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 12:59:58,153 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 12:59:58,176 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 12:59:58,176 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 12:59:58,195 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 12:59:58,195 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 12:59:58,213 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 12:59:58,213 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 12:59:58,241 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 12:59:58,241 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 12:59:58,261 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 12:59:58,261 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 12:59:58,280 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 12:59:58,280 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 12:59:58,287 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 12:59:58,287 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:00:01,721 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======2627
+2021-06-08 13:00:01,721 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======2627
+2021-06-08 13:04:36,106 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:04:36,106 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:04:39,738 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 13:04:39,738 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 13:04:39,814 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 13:04:39,814 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 13:04:40,358 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:04:40,358 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:04:41,363 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 13:04:41,363 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 13:04:41,369 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:04:41,369 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:04:41,443 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 13:04:41,443 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 13:04:41,459 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 13:04:41,459 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 13:04:41,531 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 13:04:41,531 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 13:04:41,547 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 13:04:41,547 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 13:04:41,571 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 13:04:41,571 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 13:04:41,595 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 13:04:41,595 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 13:04:41,611 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 13:04:41,611 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 13:04:41,635 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 13:04:41,635 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 13:04:41,651 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 13:04:41,651 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 13:04:41,675 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 13:04:41,675 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 13:04:41,699 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 13:04:41,699 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 13:04:41,779 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 13:04:41,779 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 13:04:41,795 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:04:41,795 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:04:43,783 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======1220
+2021-06-08 13:04:43,783 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======1220
+2021-06-08 13:09:34,518 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:09:34,518 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:09:41,543 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 13:09:41,543 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 13:09:41,615 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 13:09:41,615 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 13:09:42,079 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:09:42,079 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:09:43,047 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 13:09:43,047 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 13:09:43,054 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:09:43,054 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:09:43,120 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 13:09:43,120 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 13:09:43,144 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 13:09:43,144 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 13:09:43,216 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 13:09:43,216 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 13:09:43,232 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 13:09:43,232 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 13:09:43,264 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 13:09:43,264 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 13:09:43,288 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 13:09:43,288 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 13:09:43,304 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 13:09:43,304 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 13:09:43,328 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 13:09:43,328 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 13:09:43,344 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 13:09:43,344 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 13:09:43,368 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 13:09:43,368 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 13:09:43,392 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 13:09:43,392 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 13:09:43,408 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 13:09:43,408 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 13:09:43,448 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:09:43,448 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:09:50,118 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======5896
+2021-06-08 13:09:50,118 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======5896
+2021-06-08 13:12:00,645 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:12:00,645 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:12:03,897 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 13:12:03,897 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 13:12:04,005 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 13:12:04,005 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 13:12:04,333 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:12:04,333 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:12:05,301 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 13:12:05,301 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 13:12:05,305 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:12:05,305 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:12:05,379 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 13:12:05,379 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 13:12:05,403 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 13:12:05,403 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 13:12:05,475 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 13:12:05,475 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 13:12:05,499 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 13:12:05,499 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 13:12:05,523 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 13:12:05,523 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 13:12:05,547 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 13:12:05,547 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 13:12:05,571 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 13:12:05,571 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 13:12:05,587 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 13:12:05,587 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 13:12:05,619 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 13:12:05,619 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 13:12:05,635 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 13:12:05,635 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 13:12:05,659 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 13:12:05,659 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 13:12:05,675 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 13:12:05,675 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 13:12:05,683 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:12:05,683 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:12:11,781 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======5170
+2021-06-08 13:12:11,781 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======5170
+2021-06-08 13:21:15,448 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:21:15,448 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:21:19,072 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 13:21:19,072 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 13:21:19,149 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 13:21:19,149 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 13:21:19,645 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:21:19,645 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:21:20,541 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 13:21:20,541 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 13:21:20,545 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:21:20,545 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:21:20,611 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 13:21:20,611 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 13:21:20,627 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 13:21:20,627 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 13:21:20,739 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 13:21:20,739 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 13:21:20,763 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 13:21:20,763 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 13:21:20,795 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 13:21:20,795 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 13:21:20,819 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 13:21:20,819 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 13:21:20,851 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 13:21:20,851 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 13:21:20,875 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 13:21:20,875 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 13:21:20,899 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 13:21:20,899 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 13:21:20,915 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 13:21:20,915 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 13:21:20,939 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 13:21:20,939 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 13:21:20,971 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 13:21:20,971 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 13:21:20,979 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:21:20,979 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:21:27,540 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======5788
+2021-06-08 13:21:27,540 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======5788
+2021-06-08 13:30:51,669 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:30:51,669 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:30:54,865 - com.TestingAPITest.TestingApi -INFO - ==========Assert for statuscode 200=======
+2021-06-08 13:30:54,865 [main] INFO com.TestingAPITest.TestingApi - ==========Assert for statuscode 200=======
+2021-06-08 13:30:54,947 - com.TestingAPITest.TestingApi -INFO - ==========get all page details when extracting response=======
+2021-06-08 13:30:54,947 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details when extracting response=======
+2021-06-08 13:30:55,464 - com.TestingAPITest.TestingApi -INFO - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:30:55,464 [main] INFO com.TestingAPITest.TestingApi - ==========getting all response=======io.restassured.internal.RestAssuredResponseImpl@378bd86d
+2021-06-08 13:30:56,329 - com.TestingAPITest.TestingApi -INFO - ==========getting response Code=======200
+2021-06-08 13:30:56,329 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Code=======200
+2021-06-08 13:30:56,330 - com.TestingAPITest.TestingApi -INFO - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:30:56,330 [main] INFO com.TestingAPITest.TestingApi - ==========getting response Line=======HTTP/1.1 200 OK
+2021-06-08 13:30:56,423 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======George
+2021-06-08 13:30:56,423 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======George
+2021-06-08 13:30:56,452 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Bluth
+2021-06-08 13:30:56,452 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Bluth
+2021-06-08 13:30:56,531 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Janet
+2021-06-08 13:30:56,531 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Janet
+2021-06-08 13:30:56,561 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Weaver
+2021-06-08 13:30:56,561 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Weaver
+2021-06-08 13:30:56,601 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Emma
+2021-06-08 13:30:56,601 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Emma
+2021-06-08 13:30:56,621 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Wong
+2021-06-08 13:30:56,621 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Wong
+2021-06-08 13:30:56,650 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Eve
+2021-06-08 13:30:56,650 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Eve
+2021-06-08 13:30:56,684 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Holt
+2021-06-08 13:30:56,684 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Holt
+2021-06-08 13:30:56,711 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Charles
+2021-06-08 13:30:56,711 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Charles
+2021-06-08 13:30:56,737 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Morris
+2021-06-08 13:30:56,737 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Morris
+2021-06-08 13:30:56,753 - com.TestingAPITest.TestingApi -INFO - ==========all first namee=======Tracey
+2021-06-08 13:30:56,753 [main] INFO com.TestingAPITest.TestingApi - ==========all first namee=======Tracey
+2021-06-08 13:30:56,768 - com.TestingAPITest.TestingApi -INFO - ==========all last namee=======Ramos
+2021-06-08 13:30:56,768 [main] INFO com.TestingAPITest.TestingApi - ==========all last namee=======Ramos
+2021-06-08 13:30:56,784 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-06-08 13:30:56,784 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-06-08 13:30:58,576 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======893
+2021-06-08 13:30:58,576 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======893
+2021-07-08 17:14:48,805 - com.TestingAPITest.TestingApi -INFO - ==========get all page details=======
+2021-07-08 17:14:48,805 [main] INFO com.TestingAPITest.TestingApi - ==========get all page details=======
+2021-07-08 17:14:56,991 - com.TestingAPITest.TestingApi -INFO - ==========response time of create api=======2817
+2021-07-08 17:14:56,991 [main] INFO com.TestingAPITest.TestingApi - ==========response time of create api=======2817
